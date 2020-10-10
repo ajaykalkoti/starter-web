@@ -14,6 +14,8 @@ This is example to show different parts of the Git Repo
    ADding Deployment
 ## How to Contribute
 
+Please fork
+482d7f6 ADding copyright  notice
 
 adding contribute
 
