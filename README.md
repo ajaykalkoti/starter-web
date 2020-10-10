@@ -8,11 +8,16 @@
      
    This is example is to show different parts of the Git repository and various commands.
 
-## Purpose 
+## Purpose
+
+As stated above,the main purpose is to provide simple tex
+t
 
 
 ## Deployment
+fdsdfdsfsdfdsf
 
+fsdfsdf
 
 ## How to Contribute
 
