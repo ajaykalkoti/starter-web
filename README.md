@@ -3,6 +3,8 @@
 This is a website
 
 ## Introduction
+ 
+This is example to show different parts of the Git Repo
 
 ## Purpose
 
