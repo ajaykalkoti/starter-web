@@ -1,5 +1,6 @@
 # Starter Web Project
 
+This is a website
 
 ## Introduction
 
